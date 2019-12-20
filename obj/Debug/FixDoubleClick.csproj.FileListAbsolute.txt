@@ -1,0 +1,9 @@
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\bin\Debug\FixDoubleClick.exe.config
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\bin\Debug\FixDoubleClick.exe
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\bin\Debug\FixDoubleClick.pdb
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\bin\Debug\MKManager.dll
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\bin\Debug\MKManager.pdb
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\obj\Debug\FixDoubleClick.csprojAssemblyReference.cache
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\obj\Debug\FixDoubleClick.csproj.CopyComplete
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\obj\Debug\FixDoubleClick.exe
+E:\Project\2019\0.5 FixDoubleClick\FixDoubleClick\obj\Debug\FixDoubleClick.pdb
